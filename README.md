@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-    <img src="https://github.com/sisoputnfrba/tp-2023-1c-LaDecimaEsLaVencida/blob/main/lionel-messi_1440x810_wmk.jpg">
+    <img src="https://github.com/RodrigoGutson/The_Ultimate_Kernel_Implementation/blob/master/lionel-messi_1440x810_wmk.jpg">
 </p>
 
 ## Contexto
