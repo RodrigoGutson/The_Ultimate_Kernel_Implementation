@@ -10,6 +10,14 @@
 
 ## Contexto
 Trabajo práctico cuatrimestral de Sistemas Operativos, materia de la carrera Ingeniería en Sistemas de Información, UTN FRBA.
+Los objetivos del trabajo son: 
+-Adquirir conceptos prácticos del uso de las distintas herramientas de programación e interfaces (APIs) que brindan los sistemas operativos.
+-Entender aspectos del diseño de un sistema operativo.
+-familiarizarse con técnicas de programación de sistemas, como el empleo de makefiles, archivos de configuración y archivos de log.
+-Conocer con grado de detalle la operatoria de Linux mediante la utilización de un lenguaje de programación de relativamente bajo nivel como C.
+
+
+
 
 ## Integrantes
 | Apellido, Nombre          | Usuario Github                                       | Módulo                  |
