@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "consola"
+		},
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "fileSystem"
+		},
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "utils"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"socket.h": "c",
+			"string.h": "c",
+			"conexiones.h": "c",
+			"errno.h": "c",
+			"stdio.h": "c",
+			"log.h": "c",
+			"stdnoreturn.h": "c",
+			"consola.h": "c",
+			"consola_config.h": "c",
+			"consola-parser": "c",
+			"serializacion.h": "c",
+			"commons-nuestras.h": "c",
+			"instrucciones.h": "c",
+			"compare": "c",
+			"limits": "c",
+			"new": "c",
+			"kernel-estado.h": "c",
+			"dictionary.h": "c",
+			"config.h": "c",
+			"kernel-cpu-adapter.h": "c",
+			"list.h": "c",
+			"cpu-estructuras.h": "c",
+			"memoria.h": "c",
+			"memoria-estructuras.h": "c",
+			"memoria-atender-cpu.h": "c",
+			"segmento-estado.h": "c",
+			"semaphore.h": "c"
+		}
+	}
+}
